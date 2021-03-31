@@ -13,7 +13,7 @@ The original repos we used can be found here:\
 
 - Clone this repo:
 ```bash
-git clone https://github.com/jeanmichaeldiei/11785-Text-to-Sketch
+git clone https://github.com/americankimchi/text-to-policesketch
 ```
 - The DCGAN and CycleGAN implementations **require** two separate environments because the dependencies clash.
 - Install DCGAN dependencies:
